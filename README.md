@@ -1,17 +1,17 @@
 ### About
-This is a reactnative ios app for https://testerhome.com
+This is a react-native ios app for https://testerhome.com
 Powerd By ES6 + JSX + ReactNative
 
 ### Demo
 ![Demo](demo.gif)
 
 ### Thanks
+react-native-refreshable-listview
+react-native-scrollable-tab-view
+superagent
 
-```javascript
-"react-native-refreshable-listview": "^1.3.0",
-"react-native-scrollable-tab-view": "^0.1.10",
-"superagent": "^1.3.0"
-```
+### How to run
+Just see https://facebook.github.io/react-native/docs/getting-started.html#content
 
 ### TODO
 
@@ -19,3 +19,5 @@ Powerd By ES6 + JSX + ReactNative
 2. support user's login if testerhome's api is avalible
 3. create the job page
 4. create the topicportal page
+5. add setting option
+6. beauty and beauty...
