@@ -1,14 +1,15 @@
 ### About
 This is a react-native ios app for https://testerhome.com
-Powerd By ES6 + JSX + ReactNative
+
+Written By ES6 + JSX + ReactNative
 
 ### Demo
 ![Demo](demo.gif)
 
 ### Thanks
-react-native-refreshable-listview
-react-native-scrollable-tab-view
-superagent
+1. react-native-refreshable-listview
+2. react-native-scrollable-tab-view
+3. superagent
 
 ### How to run
 Just see https://facebook.github.io/react-native/docs/getting-started.html#content
